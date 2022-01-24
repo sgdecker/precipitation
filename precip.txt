@@ -1,2 +1,3 @@
 Precipitation comes in many forms.
 Rain: Liquid drops falling from the sky
+Freezing Rain: Supercooled raindrops that freeze on contact
