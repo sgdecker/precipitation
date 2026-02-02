@@ -1,4 +1,0 @@
-Precipitation comes in many forms.
-Rain: Liquid drops that do not freeze on contact with the ground
-Freezing Rain: Liquid drops that do freeze on contact with the ground
-Sleet: Ice pellets falling from the sky
